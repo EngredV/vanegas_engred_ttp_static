@@ -1,0 +1,24 @@
+body {
+      background: 
+        linear-gradient( 
+           to left top, 
+           #9C2706 10%,
+           #D45B12 15%,
+           #F3BC2E 100%
+        ) fixed;
+      font-family: Comic Sans MS;
+      font-size: 100%;
+}
+
+h1 {
+    color:#9C2706;
+    font-size: 200%;
+    text-align: center;
+}
+
+hr {
+    border: 2px solid #FFE500;
+    width: 50%; 
+    text-align: center;
+}
+
